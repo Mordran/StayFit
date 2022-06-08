@@ -44,7 +44,7 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 
  
 ### Procedure  - Referential mode
-To start playing MoleWhat it is necessary to run the aforementioned folders, the graphic window will open and the home page will be presented, the "play" icon will be displayed, this button has to be pressed to redirect you to the list of levels, being there, you select the one you want to play, after selecting the correct level, the first question will be displayed on the screen.
+Para empezar a utilizar la aplicación de StayFit se debe de descargar the aforementioned folders, the graphic window will open and the home page will be presented, the "play" icon will be displayed, this button has to be pressed to redirect you to the list of levels, being there, you select the one you want to play, after selecting the correct level, the first question will be displayed on the screen.
 
 ### Glosario
 > IUPAC: "Advancing the Worldwide Role of Chemistry", IUPAC serves the international scientific endeavor in the dual function of a fundamental science and mission-oriented Union. The Union is in a unique position to contribute to the central interdisciplinary chemical sciences.
