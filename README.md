@@ -21,7 +21,6 @@ Proyecto final de la clase de Ingeniería de Software 2022-2, impartida por el D
 * Sobre el uso de la documentación
 * Conceptos de las operaciones - Modo Instruccional
 * Procedimientos - Modo Referencial
-* Información sobre comandos de software - Atajos
 * Glosario
 * Características de navegación
 * Índice
@@ -61,8 +60,3 @@ To start playing MoleWhat it is necessary to run the aforementioned folders, the
 > 
 ### Características de Navegación
 * Graphic window: with a simple interface design to avoid confusion and difficulties for the users.
-
-The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
-
-
-
