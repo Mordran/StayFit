@@ -40,12 +40,11 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 
 ## Concepto de las operaciones
 
-<img src="StayFit_1.png" width="624" height="324">
 <img src="StayFit_2.png" width="624" height="324">
 <img src="StayFit_3.png" width="624" height="324">
-<img src="StayFit_4.png" width="624" height="324">
-<img src="StayFit_5.png" width="624" height="324">
 <img src="StayFit_6.png" width="624" height="324">
+<img src="StayFit_5.png" width="624" height="324">
+<img src="StayFit_4.png" width="624" height="324">
 <img src="StayFit_7.png" width="624" height="324">
 * The game is divided into two different type of questions. This one is an example of matching the correct image with the molecule name:
 
