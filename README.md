@@ -42,7 +42,7 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 <img src="StayFit_7.png" width="624" height="324">
 
  
-### Procedure  - Referential mode
+### Procedimientos - Modo Referencial
 Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa a continuación podras ejecutar el archivo main.html que esta dentro de la carpeta APRLS de esta manera se desplegará en tu navegador la pantalla principal del aplicativo 
 
 ### Características de Navegación
