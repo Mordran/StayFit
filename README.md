@@ -62,4 +62,4 @@ Por último para el inicio de sesión, ya que se tiene un registro en la página
 Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa a continuación podras ejecutar el archivo main.py que esta dentro de la carpeta APRLS de esta manera se desplegará en tu navegador la pantalla principal del aplicativo 
 
 ### Características de Navegación
-* Graphic window: with a simple interface design to avoid confusion and difficulties for the users.
+El navegar sobre la aplicación es como cualquier pagina de internet común ya sea el deslizarse con el mouse, mousepad o con las flechas en tu teclado; es bastante intuitivo.
