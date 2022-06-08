@@ -36,7 +36,12 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 Al inicio al abrir el aplicativo la primera pantalla inicial que veras será la de a continuación en la cual verás varios botones ademas de que en la misma ventanas podras deslizar hacia abajo 
 
 <img src="StayFit_2.png" width="624" height="324">
+
+Al deslizar en la ventana principal hacia la parte de abajo encontraras las siguientes imagenes las cuales te presentan información sobre los tres tipos de cuerpos que puedes tener como resultado utilizando la app
+
 <img src="StayFit_3.png" width="624" height="324">
+
+
 <img src="StayFit_6.png" width="624" height="324">
 <img src="StayFit_5.png" width="624" height="324">
 <img src="StayFit_4.png" width="624" height="324">
