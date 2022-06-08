@@ -9,7 +9,7 @@ Proyecto final de la clase de Ingeniería de Software 2022-2, impartida por el D
 > 
 > Tapia Figueroa Leonardo Ariel ([leotapia11](https://github.com/leotapia11))
 > 
-> Tolentino Díaz Débora Joselyn ([debytdiaz](https://github.com/LuisAaronNietoCruz))
+> Tolentino Díaz Débora Joselyn ([debytdiaz](https://github.com/debytdiaz))
 > 
 > Aceves Sierra David Alberto  ([nombre](https://github.com/anton-pashkov))
 
