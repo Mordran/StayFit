@@ -20,7 +20,6 @@ Proyecto final de la clase de Ingeniería de Software 2022-2, impartida por el D
 * Sobre el uso de la documentación
 * Conceptos de las operaciones - Modo Instruccional
 * Procedimientos - Modo Referencial
-* Glosario
 * Características de navegación
 
 ## Introducción
@@ -45,10 +44,6 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
  
 ### Procedure  - Referential mode
 Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa a continuación podras ejecutar el archivo main.html que esta dentro de la carpeta APRLS de esta manera se desplegará en tu navegador la pantalla principal del aplicativo 
-### Glosario
-> IUPAC: "Advancing the Worldwide Role of Chemistry", IUPAC serves the international scientific endeavor in the dual function of a fundamental science and mission-oriented Union. The Union is in a unique position to contribute to the central interdisciplinary chemical sciences.
-> 
-> Molecule: A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound that can take part in a chemical reaction.
-> 
+
 ### Características de Navegación
 * Graphic window: with a simple interface design to avoid confusion and difficulties for the users.
