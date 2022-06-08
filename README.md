@@ -59,7 +59,7 @@ Por último para el inicio de sesión, ya que se tiene un registro en la página
  
 ### Procedimientos - Modo Referencial
 Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa deberás de crear un enviroment con el comando
-`$env:FLASK_APP = "main.py `
+`$env:FLASK_APP = main.py `
 si estas en windows o el comando
 `export FLASK_APP=main.py`
 en bash, después para empezar a correr el programa en la terminal deberas escribir 
