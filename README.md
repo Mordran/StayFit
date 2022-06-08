@@ -41,16 +41,25 @@ Al deslizar en la ventana principal hacia la parte de abajo encontraras las sigu
 
 <img src="StayFit_3.png" width="624" height="324">
 
-Regresando a el incio deslizando hacia arriba podemor tener a el siguiente paso del procedimiento para el uso del aplicativo el cual es registrarse clickeando a traves del botón que está en la barra superior que se llama exactamente igual que la opción dando como resultado el siguiente menú donde ingresarás tu correo y contraseña y en el ultimo confirmaras tu contraseña de nuevo si estas no coinciden no te registrará
+Regresando a el incio deslizando hacia arriba podemor tener a el siguiente paso del procedimiento para el uso del aplicativo el cual es registrarse clickeando a traves del botón que está en la barra superior que se llama exactamente igual que la opción dando como resultado el siguiente menú donde ingresarás tu correo y contraseña donde se te piden
 
 <img src="StayFit_6.png" width="624" height="324">
+
+Una vez realizado el registro del correo y la confirmación de la contraseña, el siguiente paso es rellenar los datos referentes a nuestras medidas y proporciones corporales, para ello es necesario rellenar los datos como estatura, peso, pliegues y diamétros del cuerpo. Dar click en el botón entrar para finalizar el registro.
+
 <img src="StayFit_5.png" width="624" height="324">
+
+Una vez finalizado el registro de datos, el sitio nos arrojará una ventana con el tipo de cuerpo al que pertenecemos y la dieta que debemos llevar a cabo. En este punto podemos permanecer en el sitio o cerrar sesión.
+
 <img src="StayFit_4.png" width="624" height="324">
+
+Por último para el inicio de sesión, ya que se tiene un registro en la página, es necesario ingresar nuestro correo electrónico y contraseña para tener acceso a nuestra información. Dar click en el botón 'Entrar' para iniciar sesión.
+
 <img src="StayFit_7.png" width="624" height="324">
 
  
 ### Procedimientos - Modo Referencial
-Para empezar a utilizar la aplicación de StayFit se debe de descargar la carpeta principal de la documentación de arriba, ademas de python, pyflask y sqlite. Se descomprime y a continuación desde la terminal dentro de la carpeta se ejecutan los comandos '$ env:FLASK_APP = "main.py", segudo de "flask run"; de ésta manera se desplegará en tu navegador la pantalla principal del aplicativo y podrás comenzar a emplearlo.
+Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa a continuación podras ejecutar el archivo main.py que esta dentro de la carpeta APRLS de esta manera se desplegará en tu navegador la pantalla principal del aplicativo 
 
 ### Características de Navegación
 * Graphic window: with a simple interface design to avoid confusion and difficulties for the users.
