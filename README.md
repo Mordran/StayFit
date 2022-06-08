@@ -27,7 +27,6 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 
 ## Información para el uso de la documentación
 
-* Aviso nutricional
 - El uso de esta plataforma es responsabilidad del usuario.
 - No fomentamos el autodiagnostico.
 - Consulte a su médico.
