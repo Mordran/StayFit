@@ -50,7 +50,7 @@ Regresando a el incio deslizando hacia arriba podemor tener a el siguiente paso 
 
  
 ### Procedimientos - Modo Referencial
-Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa a continuación podras ejecutar el archivo main.html que esta dentro de la carpeta APRLS de esta manera se desplegará en tu navegador la pantalla principal del aplicativo 
+Para empezar a utilizar la aplicación de StayFit se debe de descargar la documentación de arriba, ademas de python, pyflask y sqlite para poder correr el programa a continuación podras ejecutar el archivo main.py que esta dentro de la carpeta APRLS de esta manera se desplegará en tu navegador la pantalla principal del aplicativo 
 
 ### Características de Navegación
 * Graphic window: with a simple interface design to avoid confusion and difficulties for the users.
