@@ -11,7 +11,7 @@ Proyecto final de la clase de Ingeniería de Software 2022-2, impartida por el D
 > 
 > Tolentino Díaz Débora Joselyn ([debytdiaz](https://github.com/Debytd))
 > 
-> Aceves Sierra David Alberto  ([nombre](https://github.com/anton-pashkov))
+> Aceves Sierra David Alberto  
 
 # Manual de usuario
 
@@ -44,11 +44,7 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 <img src="StayFit_5.png" width="624" height="324">
 <img src="StayFit_4.png" width="624" height="324">
 <img src="StayFit_7.png" width="624" height="324">
-* The game is divided into two different type of questions. This one is an example of matching the correct image with the molecule name:
 
-* In the other one, you type the correct molecule name based on the showed image:
-
-* In addition, it contains a button that takes you directly to the home page. It is located in the bottom right.
  
 ### Procedure  - Referential mode
 To start playing MoleWhat it is necessary to run the aforementioned folders, the graphic window will open and the home page will be presented, the "play" icon will be displayed, this button has to be pressed to redirect you to the list of levels, being there, you select the one you want to play, after selecting the correct level, the first question will be displayed on the screen.
