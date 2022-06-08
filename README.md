@@ -34,6 +34,7 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 
 ## Concepto de las operaciones
 Al inicio al abrir el aplicativo la primera pantalla inicial que veras será la de a continuación en la cual verás varios botones ademas de que en la misma ventanas podras deslizar hacia abajo 
+
 <img src="StayFit_2.png" width="624" height="324">
 <img src="StayFit_3.png" width="624" height="324">
 <img src="StayFit_6.png" width="624" height="324">
