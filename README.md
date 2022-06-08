@@ -17,14 +17,11 @@ Proyecto final de la clase de Ingeniería de Software 2022-2, impartida por el D
 
 ## Tabla de Contenidos
 * Introducción
-* Objetivos
 * Sobre el uso de la documentación
 * Conceptos de las operaciones - Modo Instruccional
 * Procedimientos - Modo Referencial
 * Glosario
 * Características de navegación
-* Índice
-* Herramientas de Búsqueda
 
 ## Introducción
 Este proyecto esta dirigido a todas aquellas personas que esten interesadas en el cuidado de su cuerpo. En este repositorio encontrarás una aplicación con la cual podrás ingresar información acerca de tu cuerpo, y a cambio te regresará el tipo de éste (ectomorfo, endomorfo y mesomorfo), además de contar con una dieta adecuada a tus requierimientos calóricos.
