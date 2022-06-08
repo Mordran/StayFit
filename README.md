@@ -41,7 +41,7 @@ Al deslizar en la ventana principal hacia la parte de abajo encontraras las sigu
 
 <img src="StayFit_3.png" width="624" height="324">
 
-Regresando a el incio deslizando hacia arriba podemor tener a el siguiente paso del procedimiento para el uso del aplicativo el cual es registrarse clickeando a traves del botón que está en la barra superior que se llama exactamente igual que la opción dando como resultado el siguiente menú donde ingresarás tu correo y contraseña donde se te piden
+Regresando a el incio deslizando hacia arriba podemor tener a el siguiente paso del procedimiento para el uso del aplicativo el cual es registrarse clickeando a traves del botón que está en la barra superior que se llama exactamente igual que la opción dando como resultado el siguiente menú donde ingresarás tu correo y contraseña y en el ultimo confirmaras tu contraseña de nuevo si estas no coinciden no te registrará
 
 <img src="StayFit_6.png" width="624" height="324">
 <img src="StayFit_5.png" width="624" height="324">
