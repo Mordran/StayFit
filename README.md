@@ -40,13 +40,16 @@ Este proyecto esta dirigido a todas aquellas personas que esten interesadas en e
 
 ## Concepto de las operaciones
 
-<img src="gui/MW_levels.jpeg" width="424" height="324">
-
+<img src="StayFit_1.png" width="624" height="324">
+<img src="StayFit_2.png" width="624" height="324">
+<img src="StayFit_3.png" width="624" height="324">
+<img src="StayFit_4.png" width="624" height="324">
+<img src="StayFit_5.png" width="624" height="324">
+<img src="StayFit_6.png" width="624" height="324">
+<img src="StayFit_7.png" width="624" height="324">
 * The game is divided into two different type of questions. This one is an example of matching the correct image with the molecule name:
-<img src="gui/MW_matching.jpeg" width="424" height="324">
 
 * In the other one, you type the correct molecule name based on the showed image:
-<img src="gui/MW_typing.jpeg" width="424" height="324">
 
 * In addition, it contains a button that takes you directly to the home page. It is located in the bottom right.
  
