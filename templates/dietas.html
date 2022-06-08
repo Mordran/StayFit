@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+     <title>StayFit</title>
+
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
+     <meta name="author" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+     <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+     <link rel="stylesheet" href="/static/css/aos.css">
+
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="/static/css/tooplate-gymso-style.css">
+<!--
+Tooplate 2119 Gymso Fitness
+https://www.tooplate.com/view/2119-gymso-fitness
+-->
+</head>
+<body data-spy="scroll" data-target="#navbarNav" data-offset="50">
+
+    <!-- MENU BAR -->
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+
+            <a class="navbar-brand" href="/">StayFit</a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-lg-auto">
+                    <li class="nav-item">
+                        <a href="/" class="nav-link smoothScroll">Acerca De</a>
+                    </li>
+					
+					{% if username %}
+                    <li class="nav-item">
+                        <a href="/dietas/" class="nav-link smoothScroll">Mis Dietas</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="/perfil/" class="nav-link smoothScroll">Mi Perfil</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="/logout/" class="nav-link smoothScroll">Cerrar sesión</a>
+                    </li>
+					{% else %}
+                    <li class="nav-item">
+                        <a href="/ingreso/" class="nav-link smoothScroll">Ingresar</a>
+                    </li>
+					
+                    <li class="nav-item">
+                        <a href="/registro/" class="nav-link smoothScroll">Registrarse</a>
+                    </li>
+					{% endif %}
+                </ul>
+
+                <ul class="social-icon ml-lg-3">
+                    <li><a href="#" class="fa fa-facebook"></a></li>
+                    <li><a href="#" class="fa fa-twitter"></a></li>
+                    <li><a href="#" class="fa fa-instagram"></a></li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+
+     <!-- HERO -->
+     <section class="hero d-flex flex-column justify-content-center align-items-center" id="home">
+
+            <div class="bg-overlay"></div>
+
+               <div class="container">
+                    <div class="row">
+
+                         <div class="col mx-auto col-12  bg-light rounded">
+                              <div class="hero-text mt-5 text-center">
+
+									<span class="mt-5 mx-5">
+										<img src="{{diet}}" style="width:50%; height:20%">
+
+									</span>
+                                   
+                              </div>
+                         </div>
+                    </div>
+               </div>
+     </section>
+
+
+
+     <!-- FOOTER -->
+     <footer class="site-footer">
+          <div class="container">
+               <div class="row">
+
+                    <div class="ml-auto col-lg-4 col-md-5">
+                        <p class="copyright-text">Copyright &copy; 2022 StayFit Co.
+                        
+                        <br>Design: <a href="https://www.tooplate.com">Tooplate</a></p>
+                    </div>
+
+                    <div class="d-flex justify-content-center mx-auto col-lg-5 col-md-7 col-12">
+                        <p class="mr-4">
+                            <i class="fa fa-envelope-o mr-1"></i>
+                            <a href="#">hello@StayFit.co</a>
+                        </p>
+
+                        <p><i class="fa fa-phone mr-1"></i> 010-020-0840</p>
+                    </div>
+                    
+               </div>
+          </div>
+     </footer>
+
+     <!-- SCRIPTS -->
+     <script src="/static/js/jquery.min.js"></script>
+     <script src="/static/js/bootstrap.min.js"></script>
+     <script src="/static/js/aos.js"></script>
+     <script src="/static/js/smoothscroll.js"></script>
+     <script src="/static/js/custom.js"></script>
+
+</body>
+</html>
